@@ -1,1 +1,1 @@
-# RockPaperScissors
+# RockPaperScissors (TheOdinProject exercise)
