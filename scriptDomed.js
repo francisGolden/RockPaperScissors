@@ -75,22 +75,6 @@ let seleziona = document.querySelectorAll('.selection')
 let winner = document.querySelector("#winner")
 
 
-
-// Array.from(seleziona).forEach(function(bottone) {
-//     bottone.addEventListener("click", function() {
-//         playRound(bottone.textContent)
-//         if (playerCount == 5) {
-//             winner.innerHTML = "PLAYER WINS!!!!!! LETS GOOOO"
-             
-            
-//         } else if (computerCount == 5) {
-//             winner.innerHTML = "COMPUTER WINS!!!!!!!!"
-            
-//         }
-    
-//     })
-// })
-
 function reset() {
     playerScore.innerHTML = `0`
     computerScore.innerHTML = '0'
